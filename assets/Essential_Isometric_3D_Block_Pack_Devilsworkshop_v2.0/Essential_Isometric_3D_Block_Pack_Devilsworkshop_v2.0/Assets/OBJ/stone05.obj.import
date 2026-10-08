@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dpdb1jp84kdaa"
+path="res://.godot/imported/stone05.obj-366fdcf86c6b489be8a27ecd8d41a70d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stone05.obj-366fdcf86c6b489be8a27ecd8d41a70d.mesh"]
+
+source_file="res://assets/Essential_Isometric_3D_Block_Pack_Devilsworkshop_v2.0/Essential_Isometric_3D_Block_Pack_Devilsworkshop_v2.0/Assets/OBJ/stone05.obj"
+dest_files=["res://.godot/imported/stone05.obj-366fdcf86c6b489be8a27ecd8d41a70d.mesh", "res://.godot/imported/stone05.obj-366fdcf86c6b489be8a27ecd8d41a70d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

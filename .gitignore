@@ -1,0 +1,24 @@
+# Godot 4+
+# Generated/imported files
+.godot/
+.agent_bus/
+/android/
+
+# Exported builds
+/build/
+/export/
+export_presets.cfg
+
+# Mono / C# (se usar)
+.mono/
+data_*/
+mono_crash.*.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Junk de macOS que veio junto com os assets
+__MACOSX/
+._*

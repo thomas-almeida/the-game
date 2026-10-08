@@ -1,0 +1,12 @@
+# Godot 4 usa LF e UTF-8 nos recursos de texto. Repositório no Windows com
+# core.autocrlf=true corrompe .tscn/.tres/.gd, então fica fixado aqui.
+* text=auto eol=lf
+
+# Binários: não deixa o Git tentar normalizar linha nem diffar.
+*.png binary
+*.psd binary
+*.pdf binary
+*.otf binary
+*.ttf binary
+*.ttc binary
+*.ctex binary
